@@ -14,7 +14,7 @@ class Book:
         print(f"Price after {discount_percentage}% discount: {self.price}")
 
 
-# Your code for creating a book
+# My code for creating a book
 book1 = Book("Jamila", "Ch.A", 500)
 print(book1.title)
 print(book1.author)
@@ -26,4 +26,5 @@ book1.display_info()
 # Apply discount
 discount = float(input("Enter discount percentage: "))
 book1.apply_discount(discount)
+
 
