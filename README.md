@@ -23,4 +23,4 @@ Make the program interactive so users can enter book details more easily.
 License
 This project is open-source and available under the MIT License.
 
-![UML Diagram](resources/uml_diagram.png)
+![UML Diagram](uml_diagram.png)
